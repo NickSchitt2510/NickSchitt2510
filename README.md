@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Pei-Lin Chen
+## 👋 Hi, I'm Nichole
 🚀 I'm a Master’s student in Management and Digital Technology, passionate about software development, innovation, and digital transformation. With experience in Python, JavaScript, React, and Flask, I love building projects that solve real-world problems through technology.
 
 ## 🔭 What I’m working on
